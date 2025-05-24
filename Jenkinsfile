@@ -7,11 +7,5 @@ pipeline {
                 checkout scm
             }
         }
-
-        stage('Hello') {
-            steps {
-                echo 'Hello Worldd'
-            }
-        }
     }
 }
