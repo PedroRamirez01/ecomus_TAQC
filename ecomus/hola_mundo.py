@@ -1,3 +1,4 @@
+
 def hola_mundo():
     print("Hola Mundo")
     return "Hola Mundo"
@@ -5,3 +6,4 @@ def hola_mundo():
 if __name__ == "__main__":
     hola_mundo()
     # Test the function
+
