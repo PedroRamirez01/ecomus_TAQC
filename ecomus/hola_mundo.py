@@ -5,5 +5,5 @@ def hola_mundo():
 
 if __name__ == "__main__":
     hola_mundo()
-    # Test the function
+# This is a simple Python script that prints "Hola Mundo" to the console.
 
